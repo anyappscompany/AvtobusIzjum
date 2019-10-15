@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Автобус Изюм</string>
+    <string name="imarker_text">Я</string>
+    <string name="splash_screen_loading_string">Определение местоположения</string>
+    <string name="explanation_message">Приложению необходимо получать данные с GPS датчика телефона для определения вашего местоположения и отображения на карте. Вы согласны предоставить разрешения для этого?</string>
+    <string name="explanation_positive_button">Хорошо</string>
+    <string name="explanation_negative_button">Выход</string>
+
+
+
+    <string name="enable_gps_message">Работа приложения без ключенного GPS невозможна. Вы хотите его включить?</string>
+    <string name="enable_gps_positive_button">Да</string>
+    <string name="enable_gps_negative_button">Выйти</string>
+
+
+    <string name="gps_disabled_message">GPS отключен на вашем устройстве. Хотите включить?</string>
+    <string name="gps_go_to_settings_message">Включить</string>
+    <string name="gps_cancel_settings_message">Отмена</string>
+
+    <string-array name="bus_statuses">
+        <item>Автобус не создан</item>
+        <item>Автобус готовится к выезду</item>
+        <item>Автобус в пути</item>
+    </string-array>
+
+
+    <string name="main_menu_bus_schedule">Маршруты</string>
+    <string name="bus_shedule_activity_title">Маршруты</string>
+
+    <string name="activity_bus_time_table_title">Расписание движения</string>
+
+</resources>

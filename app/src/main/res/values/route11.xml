@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way11_forward_start">
+        <item>22500000</item>
+        <item>24480000</item>
+        <item>26700000</item>
+        <item>28200000</item>
+        <item>31020000</item>
+        <item>31920000</item>
+        <item>34800000</item>
+        <item>36360000</item>
+        <item>38880000</item>
+        <item>40080000</item>
+        <item>43200000</item>
+        <item>45300000</item>
+        <item>50820000</item>
+        <item>53100000</item>
+        <item>55440000</item>
+        <item>56820000</item>
+        <item>59400000</item>
+        <item>61800000</item>
+        <item>63300000</item>
+        <item>66300000</item>
+        <item>67800000</item>
+        <item>70320000</item>
+    </integer-array>
+
+    <integer-array name="way11_forward_end">
+        <item>24300000</item>
+        <item>26280000</item>
+        <item>28500000</item>
+        <item>30000000</item>
+        <item>32580000</item>
+        <item>33720000</item>
+        <item>36600000</item>
+        <item>38160000</item>
+        <item>40680000</item>
+        <item>41880000</item>
+        <item>44880000</item>
+        <item>46800000</item>
+        <item>52620000</item>
+        <item>54900000</item>
+        <item>57180000</item>
+        <item>58620000</item>
+        <item>61200000</item>
+        <item>63600000</item>
+        <item>65100000</item>
+        <item>68100000</item>
+        <item>69420000</item>
+        <item>72120000</item>
+    </integer-array>
+
+    <integer-array name="way11_back_start">
+        <item>20400000</item>
+        <item>22500000</item>
+        <item>24900000</item>
+        <item>26400000</item>
+        <item>28800000</item>
+        <item>30060000</item>
+        <item>32700000</item>
+        <item>34200000</item>
+        <item>36900000</item>
+        <item>38280000</item>
+        <item>40920000</item>
+        <item>42600000</item>
+        <item>45000000</item>
+        <item>47280000</item>
+        <item>53100000</item>
+        <item>55020000</item>
+        <item>57300000</item>
+        <item>59100000</item>
+        <item>61620000</item>
+        <item>63780000</item>
+        <item>65700000</item>
+        <item>68280000</item>
+        <item>69600000</item>
+        <item>72300000</item>
+    </integer-array>
+    <integer-array name="way11_back_end">
+        <item>22200000</item>
+        <item>24300000</item>
+        <item>26520000</item>
+        <item>28080000</item>
+        <item>30600000</item>
+        <item>31860000</item>
+        <item>34680000</item>
+        <item>36000000</item>
+        <item>38700000</item>
+        <item>40020000</item>
+        <item>42720000</item>
+        <item>44400000</item>
+        <item>46800000</item>
+        <item>49200000</item>
+        <item>54900000</item>
+        <item>56760000</item>
+        <item>59100000</item>
+        <item>60900000</item>
+        <item>63180000</item>
+        <item>65700000</item>
+        <item>67500000</item>
+        <item>70080000</item>
+        <item>71400000</item>
+        <item>74100000</item>
+    </integer-array>
+</resources>

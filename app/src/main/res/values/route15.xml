@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way15_forward_start">
+        <item>24900000</item>
+        <item>37140000</item>
+        <item>60000000</item>
+    </integer-array>
+
+    <integer-array name="way15_forward_end">
+        <item>26100000</item>
+        <item>38340000</item>
+        <item>61200000</item>
+    </integer-array>
+
+    <integer-array name="way15_back_start">
+        <item>26520000</item>
+        <item>38580000</item>
+        <item>61560000</item>
+    </integer-array>
+    <integer-array name="way15_back_end">
+        <item>27720000</item>
+        <item>39840000</item>
+        <item>62760000</item>
+    </integer-array>
+</resources>

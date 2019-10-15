@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way8_forward_start">
+        <item>21900000</item>
+        <item>23700000</item>
+        <item>27300000</item>
+        <item>33000000</item>
+        <item>38100000</item>
+        <item>40860000</item>
+        <item>43500000</item>
+        <item>49200000</item>
+        <item>51720000</item>
+        <item>56100000</item>
+        <item>57120000</item>
+        <item>60780000</item>
+        <item>62700000</item>
+        <item>64500000</item>
+        <item>68400000</item>
+        <item>69900000</item>
+    </integer-array>
+
+    <integer-array name="way8_forward_end">
+        <item>24600000</item>
+        <item>26520000</item>
+        <item>30000000</item>
+        <item>35700000</item>
+        <item>40800000</item>
+        <item>42780000</item>
+        <item>46200000</item>
+        <item>51900000</item>
+        <item>54120000</item>
+        <item>58200000</item>
+        <item>59820000</item>
+        <item>63000000</item>
+        <item>65400000</item>
+        <item>66780000</item>
+        <item>70800000</item>
+        <item>72600000</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bus_shedules">
+        <item>Route number 1 (one) goes from City DK to IOMZ through ul. May Day</item>
+        <item>Route 2 (deuce) departs from the City DC and moves to IOMZ through the Sands</item>
+        <item>Route number 3 departs from City DK - the last stop is ul. Lomonosov</item>
+        <item>Route number 4 leaves from Business Club - ul. Comintern</item>
+        <item>Route number 5 is sent from the City DK - Bakery Plant through the street. May Day</item>
+        <item>Route number 6 departs from City DK - ul. Airfield through the street. May Day</item>
+        <item>Route number 6/1 departs from City DK - ul. Solar through the street. May Day</item>
+        <item>Route number 7 departs from City DK - ul. Guerrilla</item>
+        <item>Route number 8 is sent from the City DC - Sq. Revolutions through the Sands, railway station, railway market</item>
+        <item>Route 9 is sent from City DK - TB Dispensary</item>
+        <item>Route number 10 is sent from City DK - IOMZ night ring</item>
+        <item>Route number 11 is sent from the City DK - st. Nekrasov through Sands</item>
+        <item>Route number 13 departs from City DK - IOMZ via ul. School, Moscow</item>
+        <item>Route number 14 departs from City DK - ul. Steppe</item>
+        <item>Route number 15 leaves from City DK - ul. Pavlova</item>
+        <item>Route number 16 departs from City DK - ul. M. Fedorenko through the street. May Day</item>
+        <item>Route number 17 departs from City DK - ul. Schmidt</item>
+    </string-array>
+
+    <integer-array name="bus_routes_nums">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>61</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+    </integer-array>
+</resources>

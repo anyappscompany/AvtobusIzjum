@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way14_forward_start">
+        <item>19200000</item>
+        <item>23700000</item>
+        <item>28200000</item>
+        <item>38580000</item>
+        <item>48600000</item>
+        <item>61200000</item>
+    </integer-array>
+
+    <integer-array name="way14_forward_end">
+        <item>21000000</item>
+        <item>25500000</item>
+        <item>30000000</item>
+        <item>40380000</item>
+        <item>50400000</item>
+        <item>63000000</item>
+    </integer-array>
+
+    <integer-array name="way14_back_start">
+        <item>21480000</item>
+        <item>26100000</item>
+        <item>30300000</item>
+        <item>40800000</item>
+        <item>50700000</item>
+        <item>63600000</item>
+    </integer-array>
+    <integer-array name="way14_back_end">
+        <item>23280000</item>
+        <item>27900000</item>
+        <item>32100000</item>
+        <item>42600000</item>
+        <item>52200000</item>
+        <item>65400000</item>
+    </integer-array>
+</resources>

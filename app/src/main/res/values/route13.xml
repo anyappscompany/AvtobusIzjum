@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way13_forward_start">
+        <item>20400000</item>
+        <item>24180000</item>
+        <item>27900000</item>
+        <item>32100000</item>
+        <item>35580000</item>
+        <item>39480000</item>
+        <item>43800000</item>
+        <item>46980000</item>
+        <item>53760000</item>
+        <item>58020000</item>
+        <item>61920000</item>
+    </integer-array>
+
+    <integer-array name="way13_forward_end">
+        <item>21900000</item>
+        <item>25680000</item>
+        <item>29400000</item>
+        <item>33600000</item>
+        <item>37080000</item>
+        <item>40980000</item>
+        <item>45300000</item>
+        <item>48480000</item>
+        <item>55200000</item>
+        <item>59520000</item>
+        <item>63420000</item>
+    </integer-array>
+
+    <integer-array name="way13_back_start">
+        <item>22380000</item>
+        <item>26040000</item>
+        <item>29700000</item>
+        <item>34200000</item>
+        <item>37320000</item>
+        <item>41340000</item>
+        <item>45480000</item>
+        <item>48600000</item>
+        <item>55500000</item>
+        <item>59760000</item>
+        <item>63900000</item>
+    </integer-array>
+    <integer-array name="way13_back_end">
+        <item>23580000</item>
+        <item>27240000</item>
+        <item>30900000</item>
+        <item>35400000</item>
+        <item>38520000</item>
+        <item>42540000</item>
+        <item>46680000</item>
+        <item>49800000</item>
+        <item>56700000</item>
+        <item>60960000</item>
+        <item>65100000</item>
+    </integer-array>
+</resources>

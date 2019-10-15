@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way10_forward_start">
+        <item>11400000</item>
+        <item>16200000</item>
+        <item>75840000</item>
+        <item>82200000</item>
+    </integer-array>
+
+    <integer-array name="way10_forward_end">
+        <item>13800000</item>
+        <item>18000000</item>
+        <item>78300000</item>
+        <item>84900000</item>
+    </integer-array>
+</resources>

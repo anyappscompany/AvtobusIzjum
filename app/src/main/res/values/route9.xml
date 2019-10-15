@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way9_forward_start">
+        <item>24300000</item>
+        <item>27000000</item>
+        <item>29700000</item>
+        <item>42600000</item>
+        <item>55200000</item>
+    </integer-array>
+
+    <integer-array name="way9_forward_end">
+        <item>25500000</item>
+        <item>28200000</item>
+        <item>31200000</item>
+        <item>44100000</item>
+        <item>57000000</item>
+    </integer-array>
+</resources>

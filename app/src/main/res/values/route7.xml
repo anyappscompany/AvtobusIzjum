@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way7_forward_start">
+        <item>19800000</item>
+        <item>24300000</item>
+        <item>30300000</item>
+        <item>34140000</item>
+        <item>37800000</item>
+        <item>41400000</item>
+        <item>45600000</item>
+        <item>50100000</item>
+        <item>54600000</item>
+        <item>59040000</item>
+        <item>62400000</item>
+    </integer-array>
+
+    <integer-array name="way7_forward_end">
+        <item>21900000</item>
+        <item>26700000</item>
+        <item>32220000</item>
+        <item>36000000</item>
+        <item>39780000</item>
+        <item>43500000</item>
+        <item>48000000</item>
+        <item>52500000</item>
+        <item>56400000</item>
+        <item>60780000</item>
+        <item>64800000</item>
+    </integer-array>
+</resources>

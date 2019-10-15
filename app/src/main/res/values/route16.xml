@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="way16_forward_start">
+        <item>23700000</item>
+        <item>28200000</item>
+        <item>33600000</item>
+        <item>43500000</item>
+    </integer-array>
+
+    <integer-array name="way16_forward_end">
+        <item>25800000</item>
+        <item>30300000</item>
+        <item>35700000</item>
+        <item>45600000</item>
+    </integer-array>
+
+    <integer-array name="way16_back_start">
+        <item>26040000</item>
+        <item>30480000</item>
+        <item>36900000</item>
+        <item>46800000</item>
+    </integer-array>
+    <integer-array name="way16_back_end">
+        <item>28140000</item>
+        <item>32580000</item>
+        <item>38700000</item>
+        <item>48900000</item>
+    </integer-array>
+</resources>

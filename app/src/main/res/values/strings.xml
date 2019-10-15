@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Avtobus Izjum</string>
+    <string name="imarker_text">I</string>
+    <string name="splash_screen_loading_string">Positioning</string>
+    <string name="explanation_message">The application needs to receive data from the phone’s GPS sensor to determine your location and display on the map. Do you agree to grant permission for this?</string>
+    <string name="explanation_positive_button">Okay</string>
+    <string name="explanation_negative_button">Exit</string>
+
+
+    <string name="enable_gps_message">Work of the application without GPS is impossible. Do you want to enable it?</string>
+    <string name="enable_gps_positive_button">Yes</string>
+    <string name="enable_gps_negative_button">Exit</string>
+
+
+    <string name="gps_disabled_message">GPS is disabled on your device. Want to turn on?</string>
+    <string name="gps_go_to_settings_message">Enable</string>
+    <string name="gps_cancel_settings_message">Cancel</string>
+
+    <string-array name="bus_statuses">
+        <item>Bus not created</item>
+        <item>Bus is preparing for departure</item>
+        <item>Bus on the way</item>
+    </string-array>
+
+
+    <string name="main_menu_bus_schedule">Routes</string>
+    <string name="bus_shedule_activity_title">Routes</string>
+
+    <string name="activity_bus_time_table_title">Timetable</string>
+
+</resources>
